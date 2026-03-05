@@ -48,7 +48,6 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 <br>
 5-[Tailscale](https://tailscale.com/)
 
-![وصف الصورة](Media-System%20The%20Media%20Stack%20OSI%20Model.png)
 
 
 # نظرة عامة على الخدمات (media-system)
