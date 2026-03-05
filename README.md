@@ -7,7 +7,7 @@ My HomeLab✨
 | الخدمة (Service) | الوظيفة (Role) | الوصول (Access) |
 | :--- | :--- | :---: |
 | **[Jellyfin](https://github.com/linuxserver/docker-jellyfin)** | بث الميديا (Media Server) | 🌐 Public (Tunnel) |
-| **[Jellyseerr](https://requests.heronyaa.dev)** | واجهة طلبات المحتوى (Requests) | 🌐 Public (Tunnel) |
+| **[Jellyseerr](https://github.com/seerr-team/seerr)** | واجهة طلبات المحتوى (Requests) | 🌐 Public (Tunnel) |
 | **[Homarr](https://home.heronyaa.dev)** | لوحة التحكم المركزية (Dashboard) | 🌐 Public (Tunnel) |
 | **[Sonarr](https://github.com/linuxserver/docker-sonarr)** | إدارة وتنظيم المسلسلات (TV) | 🔐 Private (Tailscale) |
 | **[Prowlarr](https://github.com/linuxserver/docker-prowlarr)** | إدارة الفهرسة والبحث (Indexers) | 🔐 Private (Tailscale) |
