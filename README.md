@@ -63,3 +63,15 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 
 # Media-System The Media Stack OSI Model
 ![Media-System The Media Stack OSI Model](Media-System%20The%20Media%20Stack%20OSI%20Model.png)
+
+| الطبقة (OSI Layer) | الحاوية/المكون (Container) | الدور الوظيفي (Functional Role) | المنطق البرمجي والشبكي (Logic Flow) |
+| :--- | :--- | :--- | ---: |
+| **L7 - Application** | `Jellyseerr` | User Interface & Request | نقطة انطلاق "الطلب" (**HTTP Request**). يستقبل بحث المستخدم ويرسله عبر **API**. |
+| **L6 - Presentation** | `Jellyfin` | Media Visualization | تحويل الملفات الخام إلى مكتبة بصرية، وإدارة الـ **Transcoding** لضمان العرض. |
+| **L5 - Session** | `Sonarr` & `Prowlarr` | Automation Orchestration | إدارة "حوار" البحث والتنسيق. يفتح جلسة عمل لترجمة الطلبات ومراقبة حالة المحتوى. |
+| **L4 - Transport** | `Transmission` | Data Download Engine | تنفيذ عملية نقل البيانات الفعلية باستخدام بروتوكولات الـ **P2P** وضمان وصول الملفات. |
+| **L3 - Network** | `Zero-Trust Tunnel` | Secure Routing | التوجيه الآمن والتحقق من الهوية قبل السماح بالوصول (من **Local** إلى **Remote**). |
+| **L2 - Data Link** | `Docker Volumes` | Logical Storage Mapping | ربط الحاويات بالمجلدات الفعلية على الهاردسك وإدارة صلاحيات الملفات (**Permissions**). |
+| **L1 - Physical** | `Server Hardware` | Hardware Resources | العتاد الصلب (**Raspberry Pi 5**) الذي يوفر القوة الحوسبية لتشغيل النظام. |
+
+---
