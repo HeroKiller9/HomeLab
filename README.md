@@ -9,7 +9,7 @@ My HomeLab✨
 | **[Jellyfin](https://github.com/linuxserver/docker-jellyfin)** | بث الميديا (Media Server) | 🌐 Public (Tunnel) |
 | **[Jellyseerr](https://requests.heronyaa.dev)** | واجهة طلبات المحتوى (Requests) | 🌐 Public (Tunnel) |
 | **[Homarr](https://home.heronyaa.dev)** | لوحة التحكم المركزية (Dashboard) | 🌐 Public (Tunnel) |
-| **[Sonarr](http://100.x.x.x:8989)** | إدارة وتنظيم المسلسلات (TV) | 🔐 Private (Tailscale) |
+| **[Sonarr](https://github.com/linuxserver/docker-sonarr)** | إدارة وتنظيم المسلسلات (TV) | 🔐 Private (Tailscale) |
 | **[Prowlarr](http://100.x.x.x:9696)** | إدارة الفهرسة والبحث (Indexers) | 🔐 Private (Tailscale) |
 | **[Transmission](https://github.com/linuxserver/docker-transmission)** | محرك التحميل (Torrent Client) | 🔐 Private (Tailscale) |
 | **[Pi-hole](http://100.x.x.x/admin)** | حماية الشبكة وحجب الإعلانات | 🏠 Local (VPN) |
