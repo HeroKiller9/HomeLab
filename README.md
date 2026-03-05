@@ -77,7 +77,7 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 | **L5 - Session** | `Sonarr` & `Prowlarr` | Automation Orchestration | إدارة "حوار" البحث والتنسيق. يفتح جلسة عمل لترجمة الطلبات ومراقبة حالة المحتوى |
 | **L4 - Transport** | `Transmission` | Data Download Engine | تنفيذ عملية نقل البيانات الفعلية باستخدام بروتوكولات الـ **P2P** وضمان وصول الملفات |
 | **L3 - Network** | `Zero-Trust Tunnel` | Secure Routing | التوجيه الآمن والتحقق من الهوية قبل السماح بالوصول (من **Local** إلى **Remote**) |
-| **L2 - Data Link** | `Docker Volumes` | Logical Storage Mapping | ربط الحاويات بالمجلدات الفعلية على الهاردسك وإدارة صلاحيات الملفات (**Permissions**) |
+| **L2 - Data Link** | `Docker Bridge Networking` | Logical Storage Mapping | ربط الحاويات بالمجلدات الفعلية على الهاردسك وإدارة صلاحيات الملفات (**Permissions**) |
 | **L1 - Physical** | `Raspberry PI 5` | Hardware Resources | العتاد الصلب (**Raspberry Pi 5**) الذي يوفر القوة الحوسبية لتشغيل النظام |
 
 ---
