@@ -1,4 +1,10 @@
 # Automated-Hybrid-Zero-Trust-Media-Networking-Lab
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Tailscale](https://img.shields.io/badge/Tailscale-5D5D5D?style=flat&logo=Tailscale&logoColor=white)](https://tailscale.com/)
 <div dir="rtl">
 مبدئيا بتكلم ليش سويت سيرفر هذا بذات بسبب سبب بسيطة جداً الي هو فكرة الأشتراكات بشكل عام وفي كل شيء انا أكره شيء اسم اشتراك سواء في منصات تخزين زي Google Drive او أي منصة تطلب الأشتراك أي ما كانت بلا استثناء
 
@@ -112,11 +118,6 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 
 ## 📜 License & Tech Stack
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.com/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![Tailscale](https://img.shields.io/badge/Tailscale-5D5D5D?style=flat&logo=Tailscale&logoColor=white)](https://tailscale.com/)
 
 <div dir="rtl">
 
