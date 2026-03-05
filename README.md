@@ -52,7 +52,7 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 
 # نظرة عامة على الخدمات (media-system)
 
-| الخدمة (Service) | الوظيفة (Role) | الوصول (Access) |
+| الخدمة (Service) | الوظيفة (Role) ||
 | :--- | :--- | :---: |
 | **[Jellyfin](https://github.com/linuxserver/docker-jellyfin)** | نظام لبث الوسائط (Media Server) مفتوح المصدر بالكامل | 🌐 Public (Tunnel) |
 | **[Jellyseerr](https://github.com/seerr-team/seerr)** | هو نظام إدارة طلبات المحتوى (Overseerr fork) يعمل كواجهة أمامية (Frontend) للمستخدمين | 🌐 Public (Tunnel) |
