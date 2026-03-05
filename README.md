@@ -82,6 +82,7 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 | <br> **[Homarr](https://homarr.dev/)** <br><br> | البوابة التشغيلية (Operational Dashboard) | يعمل كواجهة مركزية للسيرفر؛ يجمع لك كل خدماتك في واجهة بصرية واحدة سهلة الوصول |
 | <br> **[Pi-hole](https://pi-hole.net/)** <br><br> | حارس جودة الشبكة (Network Health) | يعمل كـ "مصفاة" ذكية للشبكة، حيث يقوم بحجب الإعلانات وتتبع البيانات قبل وصولها لأجهزتك |
 | <br> **[Dashdot](https://getdashdot.com/)** <br><br> | مراقب العلامات الحيوية (Resource Monitor) | يوفر قراءة "لحظية" وشاملة لصحة العتاد (CPU, RAM, Storage, Network) بتصميم عصري |
+| <br> **[Dockge](https://dockge.kuma.pet/)** <br><br> | مدير الحاويات (Docker Stack Manager) | واجهة رسومية تفاعلية لإدارة ملفات docker-compose.yml؛ تسمح لك بإنشاء، تعديل، وتشغيل الحاويات بسهولة مع عرض حي للحالة والـ Logs |
 
 ---
 
