@@ -37,6 +37,14 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 <br>
 <br>
 
+# الأدوات
+1-الهاردوير هو raspberry pi 5 4GB 
+2-نظام لينكس تحديداً ديبيان
+3-[Docker](https://github.com/docker)
+4-[Cloudflare](https://www.cloudflare.com/)
+5-[Tailscale](https://tailscale.com/)
+
+
 
 
 # نظرة عامة على الخدمات (media-system)
