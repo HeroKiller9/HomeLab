@@ -11,4 +11,5 @@ services:
     volumes:
       - ./sonarr_config:/config
       - ./downloads/complete:/media/complete
-    restart: unless-stopped
+
+    restart: unless-stopped 
