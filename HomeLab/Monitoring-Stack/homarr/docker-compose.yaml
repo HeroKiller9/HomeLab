@@ -10,4 +10,5 @@ services:
     environment:
       - SECRET_ENCRYPTION_KEY=your_secret_encryption_key_here
     ports:
-      - 7575:7575
+
+      - 7575:7575 
