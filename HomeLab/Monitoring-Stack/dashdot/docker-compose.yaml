@@ -7,4 +7,5 @@ services:
     ports:
       - 3001:3001
     volumes:
-      - /:/mnt/host:ro
+
+      - /:/mnt/host:ro 
