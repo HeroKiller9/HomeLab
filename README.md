@@ -96,7 +96,7 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 # بنية المجلدات (Directory Structure)
 
 ```text
- ## HomeLab/
+ HomeLab/
 ├── Dockge/
 ├── Media-Stack/
 │   ├── jellyfin/
