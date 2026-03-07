@@ -12,4 +12,6 @@ services:
     volumes:
       - ./config:/config
       - ${MEDIA_PATH}:/media/complete 
+
     restart: unless-stopped
+    
