@@ -13,5 +13,4 @@ services:
       ServerIP: 192.x.x.x 
     volumes:
       - ./etc-pihole:/etc/pihole
-
       - ./etc-dnsmasq.d:/etc/dnsmasq.d 
