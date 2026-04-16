@@ -4,7 +4,7 @@ tracker:
     restart: always
     ports:
       # Note: Ports are open locally but secured by the lab's Zero-Trust architecture and Tailscale.
-      # Access is restricted to authorized nodes within the sovereign mesh network
+      # Access is restricted to authorized nodes within the sovereign mesh network.
       - 6969:6969/udp
       - 6969:6969/tcp
 networks: {}
