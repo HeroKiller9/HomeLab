@@ -101,6 +101,8 @@
 │   ├── prowlarr/
 │   ├── sonarr/
 │   └── transmission/
+│   └── Opentracker/
+
 └── Monitoring-Stack/
     ├── dashdot/
     ├── homarr/
