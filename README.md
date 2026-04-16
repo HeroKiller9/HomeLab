@@ -80,8 +80,7 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 | <br> **[Prowlarr](https://github.com/linuxserver/docker-prowlarr)** <br><br> | محرك البحث المركزي لإدارة الـ Indexers ومواقع التورنت وتوفير الروابط للحاويات الأخرى
 | <br> **[Transmission](https://github.com/linuxserver/docker-transmission)** <br><br> | عميل تورنت (BitTorrent Client) خفيف جداً وموثوق، مخصص للأجهزة ذات الموارد المحدودة
 | <br> **[Sonarr](https://github.com/linuxserver/docker-sonarr)** <br><br> | الأداة المسؤولة عن أتمتة وتنظيم المسلسلات التلفزيونية (TV Shows) وجدولة الحلقات الجديدة
-| <br> **[Opentracker](https://hub.docker.com/r/anthonyzou/opentracker)** <br><br> | المسؤول عن تنسيق الاتصال بين الأجهزة (Peers) وتوجيه البيانات داخل الشبكة الـ P2P الخاصة بي
-
+| <br> **[Opentracker](https://hub.docker.com/r/anthonyzou/opentracker)** <br><br> | المسؤول عن تنسيق الاتصال بين الأجهزة (Peers) وتوجيه البيانات داخل الشبكة الـ P2P الخاصة بي (جديد)
 # Media-System The Media Stack OSI Model
 ![Media-System The Media Stack OSI Model](Media-System%20The%20Media%20Stack%20OSI%20Model.png)
 
